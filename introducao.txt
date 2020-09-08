@@ -1,0 +1,3 @@
+Git é um sistema onde você pode controlar a versão de arquivos, Além disso você pode fazer projetos colaborativoss com facilidade.
+
+GitHub é um serviço que você pode hospedar projetos Git, é permitido projetos privados ou open source, ajuda a desenvolver um networking entre programadores e serve como um portifólio online.
