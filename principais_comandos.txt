@@ -1,0 +1,7 @@
+os principais comandos são:
+
+git init => para iniciar um repositório git
+git status => para ver a situação do seu arquivo
+git add => para atualizar as mudanças que você fez nos seus arquivos
+git commit -m 'Adicionar comentario aqui' => para adicionar um comentário
+git push => para subir arquivo para o gitHub
