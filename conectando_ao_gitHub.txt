@@ -1,0 +1,5 @@
+para conectar ao gitHub
+
+você precisa ter um arquivo README.md na pasta do seu projeto 
+
+depois você coloca o comando => (git remote add origin https://gitHub.com/nome-da-sua-conta/nome-do-projeto-no-gitHub) e pronto
