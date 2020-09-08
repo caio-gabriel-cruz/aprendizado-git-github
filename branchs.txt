@@ -1,0 +1,8 @@
+branchs servem para desenvolver feactures isoladas
+
+todo arquivo git já vem com uma branch a 'Master'
+
+pra criar uma branch é so´colocar o comando => (git branch 'nome da branch') e pronto
+para voltar pra branch Master é só usar o comando => (git checkout 'nome da branch')
+
+para juntar todas as branchs use => (git merge)
