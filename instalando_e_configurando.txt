@@ -1,0 +1,19 @@
+Instalar:
+
+Para fazer o download do git você precias entrar no site: https://git-scm.com/download.
+
+
+Configurar:
+
+Para configurar o git abra o terminal da sua maquina e escreva
+
+git config --global user.name "coloque um nome"
+<ENTER>
+git config --global user.email "coloque um email
+<ENTER>
+
+pra checar seus dados 
+
+git config --list
+<ENTER>
+
